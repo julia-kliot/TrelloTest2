@@ -1,2 +1,2 @@
 # TrelloTest2
-These is presentation project for Selenium WebDriver
+These is presentation project for Selenium WebDriver2
